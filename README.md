@@ -55,16 +55,16 @@ theory/
 
 **New to this theory?** Start with the examples:
 
-1. [**The Newborn and the Blanket**](examples/newborn-blanket.md) - How value emerges from tension/relief
-2. [**The Sports Fan**](examples/sports-fan.md) - Unity of consciousness explained
-3. [**Your Child Crying**](examples/child-crying.md) - Why self-relevance dominates attention
+1. [**The Newborn and the Blanket**](examples/Example-Newborn.md) - How value emerges from tension/relief
+2. [**The Sports Fan**](examples/Example-Sports_Fan.md) - Unity of consciousness explained
+3. [**Your Child Crying**](examples/Example-Child_Crying.md) - Why self-relevance dominates attention
 
-**Want the full theory?** Read the [**Main Manuscript**](manuscript/language-of-stress.md)
+**Want the full theory?** Read the [**Main Manuscript**](manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
 
 **Comparing to other theories?**
-- [vs. Predictive Processing](comparisons/predictive-processing.md)
-- [vs. Global Workspace Theory](comparisons/global-workspace-theory.md)
-- [vs. Integrated Information Theory](comparisons/integrated-information-theory.md)
+- [vs. Predictive Processing](comparisons/Language_of_Stress-vs-Predictive_Processing.md)
+- [vs. Global Workspace Theory](comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
+- [vs. Integrated Information Theory](comparisons/Language_of_Stress-vs-Integrated-Information-Theory.md)
 
 ---
 
