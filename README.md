@@ -3,7 +3,7 @@
 **A Materialist Resolution to the Hard Problem of Consciousness**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](YOUR_FIGSHARE_DOI_HERE)
+[![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](https://doi.org/10.6084/m9.figshare.31081801)
 
 ---
 
@@ -140,7 +140,7 @@ https://github.com/LanguageOfStress/theory
 **FigShare DOI:**
 ```
 Pace, J. C. (2026). The Language of Stress [Preprint]. 
-FigShare. https://doi.org/YOUR_DOI_HERE
+FigShare. https://doi.org/10.6084/m9.figshare.31081801
 ```
 
 **BibTeX:**
@@ -175,8 +175,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 **Joshua Craig Pace**
 - 📧 Email: josh@languageofstress.com
 - 🌐 Website: https://languageofstress.com
-- 📄 FigShare: [DOI_LINK]
-- 🔬 OSF: [PROJECT_LINK when created]
+- 📄 FigShare: https://doi.org/10.6084/m9.figshare.31081801
+- 🔬 OSF: https://osf.io/tpsrv
 
 ---
 
