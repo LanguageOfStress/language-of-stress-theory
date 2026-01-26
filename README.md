@@ -64,7 +64,7 @@ theory/
 **Comparing to other theories?**
 - [vs. Predictive Processing](comparisons/Language_of_Stress-vs-Predictive_Processing.md)
 - [vs. Global Workspace Theory](comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
-- [vs. Integrated Information Theory](comparisons/Language_of_Stress-vs-Integrated-Information-Theory.md)
+- [vs. Integrated Information Theory](comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
 
 ---
 
