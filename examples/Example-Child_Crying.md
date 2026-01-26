@@ -29,8 +29,6 @@ conscious attention completely captured by that barely-perceptible cry.
 **From an information-processing perspective, this makes no sense:
 The conversation:**
 ● High signal strength (clear, loud, close)
-
-
 ● High information content (complex linguistic meaning)
 ● High acoustic clarity (good SNR - signal-to-noise ratio)
 ● Direct relevance to current task (social interaction you're engaged in)
