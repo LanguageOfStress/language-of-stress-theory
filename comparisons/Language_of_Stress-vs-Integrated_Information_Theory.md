@@ -1,3 +1,8 @@
+title: Language of Stress (LoS) vs. Integrated Information Theory (IIT)
+author: Joshua Craig Pace
+date: 01-26-2026
+
+
 # Integrated Information Theory: Where We Converge and Diverge
 
 ## Quick Summary

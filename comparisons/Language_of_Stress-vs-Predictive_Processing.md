@@ -1,3 +1,8 @@
+title: Language of Stress (LoS) vs. Predictive Processing (PP/FEP)
+author: Joshua Craig Pace
+date: 01-26-2026
+
+
 # Predictive Processing & Free Energy:
 
 # Where We Converge and Diverge

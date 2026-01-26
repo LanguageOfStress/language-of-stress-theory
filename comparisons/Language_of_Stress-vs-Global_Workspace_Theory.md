@@ -1,3 +1,9 @@
+title: Language of Stress (LoS) vs. Global Workspace Theory (GWT)
+author: Joshua Craig Pace
+date: 01-26-2026
+
+
+
 # Global Workspace Theory: Where We Converge and Diverge
 
 ## Quick Summary
