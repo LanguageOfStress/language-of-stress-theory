@@ -13,20 +13,20 @@ a preference she’s chosen. The goodness of the blanket is simply a fact to her
 brain—substantiated through the undeniable relief she just experienced.
 
 **What's Happening (Language of Stress):**
-● **Archetypes:** The newborn’s archetypal understanding of the world—what her brain
+- **Archetypes:** The newborn’s archetypal understanding of the world—what her brain
 considers “normal”—was defined by the warm, confined, quiet womb. This
 understanding is held at a high degree of confidence as it’s been substantiated over
 months of gestation.
-● **Deviation:** Being born introduces the infant to a cold, bright, chaotic world—creating
+- **Deviation:** Being born introduces the infant to a cold, bright, chaotic world—creating
 massive deviation from these high-confidence, self-relevant archetypes (high rigidity,
 high tension, high self-relevance), creating intense systemic distress.
-● **Topographical Distortion:** The magnitude of the distress dominates attention and
+- **Topographical Distortion:** The magnitude of the distress dominates attention and
 perception by dramatically distorting the infant’s underdeveloped Value Topography.
-● **Motivated Action:** The warped Topography creates systemic pressure to relieve the
+- **Motivated Action:** The warped Topography creates systemic pressure to relieve the
 distortion (tension/stress), causing the child to blink, cry, flail and so on.
-● **Relief:** Being wrapped in the warm blanket partially resolves the distortion—temperature
+- **Relief:** Being wrapped in the warm blanket partially resolves the distortion—temperature
 normalizes, pressure feels familiar, tension softens.
-● **Substantiation:** In that moment of relief, her brain learns the (subjective) "truth" of the
+- **Substantiation:** In that moment of relief, her brain learns the (subjective) "truth" of the
 goodness of blankets
 This isn't an opinion she's formed through logical analysis. It's not a preference she's chosen.
 The goodness of the blanket is simply a **fact** to her brain—substantiated through the undeniable
