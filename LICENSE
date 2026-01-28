@@ -2,20 +2,6 @@ MIT License
 
 Copyright (c) 2026 Joshua Craig Pace
 
-SCOPE OF LICENSE:
-This license applies to the Language of Stress theoretical framework,
-examples, comparisons, and academic materials contained in this 
-repository.
-
-EXCLUSIONS:
-The Pace Tension-Resolution Architecture (PTRA) and specific 
-computational methods described in the /technical folder are subject 
-to separate patent protection (U.S. Provisional Patent Application, 
-January 2026) and are NOT covered by this MIT License.
-
-For commercial implementation of PTRA methods, contact:
-josh@languageofstress.com
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -33,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+SCOPE CLARIFICATION
+
+This MIT License applies to:
+- The Language of Stress theoretical framework
+- Conceptual descriptions and educational materials
+- Examples, comparisons, and academic content
+- All materials in this repository
+
+This license does NOT include:
+- Detailed PTRA implementation specifications (not in this repository)
+- Proprietary computational methods and algorithms
+- Commercial deployment rights for production systems
+
+The PTRA architecture is described conceptually for educational purposes. 
+Detailed implementation specifications are proprietary and subject to 
+patent protection (U.S. Provisional Patent Application filed January 2026).
+
+Academic research and educational prototypes using these concepts are 
+encouraged and permitted under this license.
+
+For commercial deployment or detailed implementation specifications, 
+contact: josh@languageofstress.com
