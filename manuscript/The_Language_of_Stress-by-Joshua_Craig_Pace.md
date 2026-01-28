@@ -7,7 +7,103 @@ January 2026
 
 ---
 
-© 2026 Joshua Craig Pace. All Rights Reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. Patent Pending.
+═══════════════════════════════════════════════════════════════════
+
+                        LICENSE & USAGE
+
+═══════════════════════════════════════════════════════════════════
+
+THEORETICAL FRAMEWORK
+
+The Language of Stress theoretical framework (Chapters 1-11) is 
+published under the MIT License and is freely available for academic 
+research, education, and scholarly discussion.
+
+You are welcome to:
+  • Read, study, and analyze the framework
+  • Cite in academic papers and publications
+  • Discuss and critique in academic forums
+  • Quote passages with proper attribution
+  • Build research prototypes to test predictions
+  • Teach these concepts in educational settings
+  • Share this work with colleagues and students
+
+
+TECHNICAL IMPLEMENTATION
+
+Specific computational methods and the PTRA (Pace Tension-Resolution 
+Architecture) described in Appendices A-C are subject to patent 
+protection (U.S. Provisional Patent Application filed January 2026).
+
+Academic research using these concepts for non-commercial prototypes 
+is permitted and encouraged.
+
+Commercial deployment of PTRA-based AI systems requires licensing.
+
+
+HOW TO CITE THIS WORK
+
+APA Format:
+Pace, J. C. (2026). The language of stress: Valenced tension 
+    dynamics and the materialist resolution of the hard problem. 
+    FigShare. https://doi.org/10.6084/m9.figshare.31081801
+
+Chicago Format:
+Pace, Joshua Craig. The Language of Stress: Valenced Tension 
+    Dynamics and the Materialist Resolution of the Hard Problem. 
+    FigShare, 2026. https://doi.org/10.6084/m9.figshare.31081801.
+
+MLA Format:
+Pace, Joshua Craig. The Language of Stress: Valenced Tension 
+    Dynamics and the Materialist Resolution of the Hard Problem. 
+    FigShare, 2026, doi.org/10.6084/m9.figshare.31081801.
+
+
+COMMERCIAL INQUIRIES
+
+For questions about commercial implementation or licensing:
+josh@languageofstress.com
+
+
+OPEN SCIENCE COMMITMENT
+
+This work is shared openly because advancing our understanding of 
+consciousness matters more than proprietary control. Academic 
+collaboration and rigorous critique are essential to scientific 
+progress.
+
+═══════════════════════════════════════════════════════════════════
+
+MIT License
+
+Copyright (c) 2026 Joshua Craig Pace
+
+Permission is hereby granted, free of charge, to any person obtaining 
+a copy of this software and associated documentation files (the 
+"Software"), to deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, merge, publish, 
+distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject 
+to the following conditions:
+
+The above copyright notice and this permission notice shall be 
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+═══════════════════════════════════════════════════════════════════
+
+NOTE: The PTRA architecture and computational methods in Appendices 
+A-C are subject to separate patent protection and are not covered 
+by the above MIT License for commercial deployment purposes.
+
+═══════════════════════════════════════════════════════════════════
 
 ---
 
