@@ -24,7 +24,7 @@
 - ✅ Educational use: Fully permitted
 
 **Commercial AI implementation is protected:**
-- ⚖️ PTRA Architecture: Patent pending (U.S. Provisional filed Jan 2026)
+- ⚖️ PTRA Architecture: Patent pending
 - ⚖️ Specific computational methods: Patent pending
 - ⚖️ Commercial applications: Licensing available
 
