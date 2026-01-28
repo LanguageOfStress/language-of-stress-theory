@@ -15,6 +15,26 @@
 
 ---
 
+## Open Science with Protected Implementation
+
+**The Language of Stress is committed to open science:**
+- ✅ Theoretical framework: Freely available (MIT License)
+- ✅ Academic research: Open collaboration encouraged
+- ✅ Empirical predictions: Public and falsifiable
+- ✅ Educational use: Fully permitted
+
+**Commercial AI implementation is protected:**
+- ⚖️ PTRA Architecture: Patent pending (U.S. Provisional filed Jan 2026)
+- ⚖️ Specific computational methods: Patent pending
+- ⚖️ Commercial applications: Licensing available
+
+**What this means:**
+- **Researchers:** Freely use, cite, build upon the theory
+- **Educators:** Freely teach and discuss the framework
+- **AI Companies:** Contact for commercial licensing
+
+---
+
 ## Key Claims
 
 1. **Consciousness is integrated value assessment** in a unified topography, not mere information processing
