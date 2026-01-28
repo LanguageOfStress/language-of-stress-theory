@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this theory, please cite it as below."
+title: "The Language of Stress: Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem"
+authors:
+  - family-names: Pace
+    given-names: Joshua Craig
+    email: josh@languageofstress.com
+    orcid: "https://orcid.org/0009-0008-0046-440X"
+version: 1.0.0
+date-released: "2026-01-28"
+identifiers:
+  - type: doi
+    value: "10.6084/m9.figshare.31081801"
+    description: "FigShare DOI"
+  - type: doi
+    value: "10.17605/OSF.IO/TPSRV"
+    description: "OSF Project"
+repository-code: "https://github.com/LanguageOfStress/theory"
+url: "https://languageofstress.com"
+license: MIT
+keywords:
+  - consciousness
+  - hard problem
+  - phenomenology
+  - neuroscience
+  - philosophy of mind
