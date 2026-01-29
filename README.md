@@ -77,6 +77,14 @@ theory/
 **New to this theory?** 
 Start with the fundamentals: [**Theory_Fundamentals**](fundamentals/Theory_Fundamentals.md) - Why this theory should be taken seriously
 
+- Why consciousness must exist (not just what it correlates with)
+- The mathematical framework (predictive formalism with equations)
+- How brains validate truth through tension dynamics
+- Clinical predictions (OCD, PTSD, depression)
+- Complete AI implementation specifications (PTRA architecture)
+- Empirical predictions that distinguish LoS from competing theories
+- [Markdown Version](/Theory_Fundamentals.md) - GitHub-readable format
+
 Then read some examples:
 
 1. [**The Newborn and the Blanket**](examples/Example-Newborn.md) - How value emerges from tension/relief

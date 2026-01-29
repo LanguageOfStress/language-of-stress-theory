@@ -1,11 +1,26 @@
+---
+title: "Theory Fundamentals - Why Language of Stress Should Be Taken Seriously"
+description: "Mathematical framework explaining why consciousness exists through valenced tension dynamics. Includes testable predictions."
+keywords: 
+  - consciousness theory
+  - hard problem of consciousness
+  - phenomenal experience
+  - value topography
+  - tension dynamics
+  - predictive formalism
+  - AI consciousness
+  - PTRA architecture
+  - clinical predictions
+author: Joshua Craig Pace
+orcid: https://orcid.org/0009-0008-0046-440X
+date: 2026-01
+doi: https://doi.org/10.6084/m9.figshare.31081801
+---
+
+
 THE LANGUAGE OF STRESS – THEORY FUNDAMETALS
 
 # **Why This Theory Should Be Taken Seriously**
-
-By Joshua Craig Pace  
-[https://orcid.org/0009-0008-0046-440X](https://orcid.org/0009-0008-0046-440X)
-
-January 2026
 
 ---
 
