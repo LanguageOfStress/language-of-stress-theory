@@ -1,4 +1,4 @@
-# The Language of Stress
+# Formal Overview of the The Language of Stress Theory of Consciousness
 
 **Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem**
 
