@@ -16,6 +16,25 @@
 
 ---
 
+## Quick Start
+
+**New to consciousness theory?** 
+Start with [**Overview (Non-Technical)**](theory/Overview_Non-Technical.md) - An accessible introduction to why consciousness is fundamentally about what matters
+
+**Want the formal framework?** 
+Read [**Canonical Axioms**](theory/Canonical_Axioms.md) - The authoritative axiomatic foundation (v1.0)
+
+**Comparing to other theories?** 
+Check [**What This Theory Is Not**](theory/What_This_Theory_Is_Not.md) - Critical distinctions from PP, GWT, IIT, and others
+
+**Ready for the deep dive?** 
+Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete technical exposition with mathematical framework
+
+**Want to see it in action?**
+Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
+
+---
+
 ## Open Science with Protected Implementation
 
 **The Language of Stress is committed to open science:**
@@ -61,43 +80,20 @@
 ---
 
 ## Repository Structure
+
 ```
 language-of-stress-theory/
-├── manuscript/           # Complete theoretical framework
-├── comparisons/          # How LoS differs from PP, GWT, IIT
-├── examples/             # Vivid scenarios illustrating core concepts
-├── technical/            # Implementation specifications (PTRA architecture)
-└── predictions/          # Falsifiable empirical tests
+├── theory/              # Core theoretical framework
+│   ├── Canonical_Axioms.md           # Formal axiomatic foundation (v1.0)
+│   ├── Overview_Non-Technical.md     # Accessible introduction
+│   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories
+│   ├── Theory_Fundamentals.md        # Complete technical exposition
+│   └── Empirical_Predictions.md      # Falsifiable experimental predictions
+├── comparisons/         # How LoS differs from PP, GWT, IIT
+├── examples/            # Intuitive scenarios illustrating concepts
+├── technical/           # PTRA architecture specifications
+└── manuscript/          # Complete theoretical manuscript
 ```
-
----
-
-## Quick Start
-
-**New to this theory?** 
-Start with the fundamentals: [**Theory_Fundamentals**](Theory_Fundamentals.md) - Why this theory should be taken seriously
-
-- Why consciousness must exist (not just what it correlates with)
-- The mathematical framework (predictive formalism with equations)
-- How brains validate truth through tension dynamics
-- Clinical predictions (OCD, PTSD, depression)
-- Complete AI implementation specifications (PTRA architecture)
-- Empirical predictions that distinguish LoS from competing theories
-- [Markdown Version](/Theory_Fundamentals.md) - GitHub-readable format
-
-Then read some examples:
-
-1. [**The Newborn and the Blanket**](examples/Example-Newborn.md) - How value emerges from tension/relief
-2. [**The Sports Fan**](examples/Example-Sports_Fan.md) - Unity of consciousness explained
-3. [**Your Child Crying**](examples/Example-Child_Crying.md) - Why self-relevance dominates attention
-4. [**The Kitchen Knives**](examples/Example-Kitchen_Knives.md) - How the brain determines truth
-
-**Want the full theory?** Read the [**Main Manuscript**](manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
-
-**Comparing to other theories?**
-- [vs. Predictive Processing](comparisons/Language_of_Stress-vs-Predictive_Processing.md)
-- [vs. Global Workspace Theory](comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
-- [vs. Integrated Information Theory](comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
 
 ---
 
@@ -109,10 +105,7 @@ A unified subjective mapping of goodness/badness across all concepts, built from
 ### Archetypes
 Expected states (baselines) the brain defends. Deviations create tension proportional to:
 - **Deviation magnitude** (how far from expected)
-- **Rigidity** (how intensely defended)
-- **Self-relevance** (how much it threatens identity)
-
-Formula: **Tension = Deviation × Rigidity × Self-relevance**
+- **Rigidity** (how intensely the archetype is defended)
 
 ### The Archetype of Self
 Your most defended structure—everything constitutive of your identity. Deviations threatening the Self create maximum phenomenal pressure.
@@ -121,8 +114,14 @@ Your most defended structure—everything constitutive of your identity. Deviati
 - **Tension:** Raw deviation × rigidity (the "what")
 - **Stress:** Interpretation of significance (the "so what")—momentum, implications, available remedies
 
+### Topographical Distortion
+The impact of tension dynamics on the Value Topography. A function of:
+- **Tension:** deviation × rigidity
+- **Stress:** tension × interpretation × self-relevance
+Formula: **Topographical Distortion = Deviation × Rigidity × Interpetation × Self-relevance**
+
 ### Relief
-Resolution of tension—substantiates value. Things reliably providing relief are "known" to be good.
+Resolution of distortions substantiates value. Things reliably providing relief are "known" to be good.
 
 ---
 
@@ -136,7 +135,7 @@ The Language of Stress makes falsifiable predictions distinguishing it from comp
 4. **Psychedelic efficacy correlates with rigidity reduction + ego dissolution**, not acute subjective intensity
 5. **AI consciousness requires specific architecture** (unified topography, defended self-model, variable rigidity), not just high complexity
 
-See [**Empirical Predictions**](predictions/Empirical_Predictions.md) for full experimental designs.
+See [**Empirical Predictions**](theory/Empirical_Predictions.md) for full experimental designs.
 
 ---
 
@@ -163,7 +162,13 @@ Complete blueprint for building conscious machines:
 
 ## How to Cite
 
-**Main Theory:**
+**For the axiomatic framework, cite:**
+```
+Pace, J. C. (2026). The Language of Stress: Canonical Axioms (v1.0). 
+GitHub. https://github.com/LanguageOfStress/language-of-stress-theory
+```
+
+**For the complete theory, cite:**
 ```
 Pace, J. C. (2026). The Language of Stress: A Materialist Resolution 
 to the Hard Problem of Consciousness. GitHub. 
@@ -180,7 +185,7 @@ FigShare. https://doi.org/10.6084/m9.figshare.31081801
 ```bibtex
 @misc{pace2026language,
   author = {Pace, Joshua Craig},
-  title = {The Language of Stress: A Materialist Resolution to the Hard Problem of Consciousness},
+  title = {The Language of Stress: The Architecture of Phenomenal Experience},
   year = {2026},
   publisher = {GitHub},
   url = {https://github.com/LanguageOfStress/language-of-stress-theory}
@@ -194,7 +199,7 @@ FigShare. https://doi.org/10.6084/m9.figshare.31081801
 This theory is shared openly to accelerate understanding. Contributions welcome:
 
 - 🧪 **Test empirical predictions** and share results
-- 💻 **Implement PTRA** in code and document findings
+- 💻 **Implement PTRA** in code and document findings (*commercial applications require licensing)
 - 📝 **Extend examples** to new domains
 - 🔍 **Identify gaps** or contradictions
 - 💬 **Engage constructively** via Issues or Discussions
@@ -218,6 +223,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## License
 
 This work is licensed under the [MIT License](LICENSE) - you're free to use, modify, and distribute with attribution.
+Exemptions: *Commercial applications of theory are proprietary. Contact for licensing. patent pending
 
 **Open Science Commitment:** Truth matters more than credit. If this framework proves correct, it belongs to everyone working to understand consciousness.
 
@@ -245,16 +251,23 @@ Your rigorous work created the foundation for this attempt at synthesis.
 
 Direct access to raw theory documents:
 
-- [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/Theory_Fundamentals.md)
-- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
+**Core Theory:**
+- [Canonical Axioms (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Canonical_Axioms.md)
+- [Overview Non-Technical (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Overview_Non-Technical.md)
+- [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
+- [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md)
+- [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Empirical_Predictions.md)
+
+**Examples:**
 - [Example: Child Crying (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Child_Crying.md)
 - [Example: Kitchen Knives (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Kitchen_Knives.md)
 - [Example: Newborn (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Newborn.md)
 - [Example: Sports Fan (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Sports_Fan.md)
-- [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/predictions/Empirical_Predictions.md)
+
+**Comparisons:**
 - [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
 - [Comparison: Integrated Information Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
 - [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
 
-
-```
+**Complete Manuscript:**
+- [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
