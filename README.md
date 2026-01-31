@@ -118,7 +118,7 @@ Your most defended structure—everything constitutive of your identity. Deviati
 The impact of tension dynamics on the Value Topography. A function of:
 - **Tension:** deviation × rigidity
 - **Stress:** tension × interpretation × self-relevance
-Formula: **Topographical Distortion = Deviation × Rigidity × Interpetation × Self-relevance**
+- Complete Formula: **Topographical Distortion = Deviation × Rigidity × Interpetation × Self-relevance**
 
 ### Relief
 Resolution of distortions substantiates value. Things reliably providing relief are "known" to be good.
