@@ -30,6 +30,9 @@ Check [**What This Theory Is Not**](theory/What_This_Theory_Is_Not.md) - Critica
 **Ready for the deep dive?** 
 Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete technical exposition with mathematical framework
 
+**Want the answer to the Hard Problem?**
+Read [**Solving The Hard Problem**](theory/Solving_The_Hard_Problem.md) - In depth resolution of the Hard Problem of Consciousness
+
 **Want to see it in action?**
 Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
