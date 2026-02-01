@@ -31,13 +31,13 @@ The Value Topography is hierarchically organized around the **Archetype of Self*
 
 ---
 
-## Axiom 5 - Constructed Distortion
+## Axiom 5 - Constructed Distortion (Stress)
 
-In conscious experience, phenomenological urgency and prioritization ("distortion") do not arise directly from deviation or arousal alone. Distortion emerges only through the interaction of deviation from expected archetypes, the rigidity with which those expectations are held, the interpreted meaning of the deviation, and its degree of self-relevance.
+In conscious experience, phenomenological urgency and prioritization (“topographical distortion” or “stress”) do not arise from deviation or arousal alone. Topographical distortions emerge only through the interaction of deviation from expected archetypes, the rigidity with which those expectations are held, the interpreted meaning of the deviation, and its degree of self-relevance.
 
-**Distortion ∝ deviation × rigidity × interpretation × self-relevance**
+**Topographical Distortion ∝ deviation × rigidity × interpretation × self-relevance**
 
-As a consequence, tension, stress, and distortion are dissociable states, and may vary independently under different conditions.
+As a consequence, tension and topographical distortion (stress) are dissociable: a deviation can generate tension without generating significant phenomenal urgency, if interpretation and self-relevance are low.
 
 ---
 

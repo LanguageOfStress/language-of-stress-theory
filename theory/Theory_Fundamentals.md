@@ -73,12 +73,11 @@ Unlike other consciousness theories that remain descriptive, the Language of Str
 The Core Equations:
 
 * Tension \= Deviation × Rigidity  
-* Stress \= Tension × Interpretation  
-* Topographical Distortion \= Stress × Self-Relevance
+* Stress (Distortion) \= Tension × Interpretation × Self-Relevance 
 
 Combined:
 
-* Distortion \= Deviation × Rigidity × Interpretation × Self-Relevance
+* Topgraphical Distortion \= Deviation × Rigidity × Interpretation × Self-Relevance
 
 ---
 

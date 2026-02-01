@@ -40,27 +40,24 @@ This internal landscape is called a **value topography** — a continuously shif
 
 ## 02 The Core Dynamics
 
-Within this Value Topography:
+Within this Value Topography, experience is shaped by three dynamics:
 
 ### Tension
-**Tension** reflects deviation from expected archetypes, scaled by the rigidity with which those expectations are held.
+**Tension** reflects deviation from expected archetypes, scaled by the rigidity with which those expectations are held. It is automatic and pre-interpretive — the raw signal that something differs from what was expected, before any assessment of what that difference means.
 
-**Example:** You expect your morning coffee to taste a certain way (archetype). When it tastes off (deviation), you experience tension.
+**Example:** You expect your morning coffee to taste a certain way (archetype). When it tastes off (deviation), you experience tension — an immediate sense that something is wrong, before you've decided how much it matters.
 
 ### Stress
-**Stress** reflects the interpreted meaning of such deviations, shaped by prior experience and learned patterns.
+**Stress (topographical distortion)** reflects the phenomenal pressure created when tension is interpreted through the lens of what it means and how central it is to the Archetype of Self. Two things that both create tension can generate vastly different levels of stress depending on how the brain interprets their significance and how deeply they threaten — or motivate — the Self. Stress can be aversive (threatening coherence, compelling avoidance or repair) or appetitive (motivating pursuit of a goal or ideal).
 
-**Example:** You're watching a horror movie. The protagonist is trapped in a dark basement with a serial killer. You experience genuine tension and stress — your heart races, you feel the danger. But this stress remains external to your Self. You're interpreting the situation as "the character is in danger," not "I am in danger."
+**Example:** You're watching a horror movie. The protagonist is trapped in a dark basement with a serial killer. The scene is intense — your heart races, you feel the danger viscerally. But notice: the stress remains contained. You're fully aware this is a movie. The threat is interpreted as external, and it has no connection to your Archetype of Self. High tension, high interpretation of danger — but low self-relevance keeps the stress from becoming overwhelming. You can look away, check your phone, grab a snack. The scene can't fully capture you.
 
-### Distortions
-**Distortions** are amplified when stress becomes self-relevant, amplifying its impact on the value landscape.
-
-**Example:** While watching that same intense scene, you notice a spider crawling down the wall directly toward you. Objectively, the spider poses far less danger than the movie's serial killer. But the spider creates massive distortion because it's self-relevant — it threatens YOU. Your attention immediately snaps from the movie (high stress, zero self-relevance) to the spider (low objective threat, maximum self-relevance). **This is why you jump at the spider but not at the screen.**
+Now, while watching that same intense scene, you notice a spider crawling down the wall directly toward you. Objectively, the spider poses far less danger than the movie's serial killer. But the spider creates massive stress because it threatens you — it's self-relevant. Your attention immediately snaps from the movie to the spider. You jump. The spider didn't need a complex plot or a terrifying villain to dominate your consciousness. It just needed to threaten something nested in your Self. This is the architecture at work: Deviation × Rigidity × Interpretation × Self-Relevance. The spider scores low on the first two but maximum on the last — and the product dwarfs everything the movie could produce.
 
 ### Relief
-**Relief** reflects the resolution, release, or reconfiguration of distortions within the value landscape.
+**Relief** reflects the resolution of stress — the phenomenal experience when a deviation is closed, an archetype is restored, or a goal is achieved. Relief is also the mechanism by which the brain substantiates value: what relieves stress becomes a trusted truth in the Value Topography. The character of relief depends on what it resolves: relief from aversive stress feels calming or reassuring; relief from appetitive stress feels validating or invigorating.
 
-**Example:** You flick the spider away, eliminating the self-relevant threat. The distortion collapses and relief floods in. Your attention can return to the movie, which now feels less intense by comparison — your Value Topography has been recalibrated by the real-world incident.
+**Example:** You flick the spider away, eliminating the self-relevant threat. The stress collapses and relief floods in. Your attention can return to the movie — which now feels less intense by comparison. Your Value Topography has been recalibrated by the real-world incident: for a moment, the spider was the most important thing in your world, and the movie was nothing. Now the spider is gone, and the movie can reclaim its place.
 
 **Together, these dynamics give conscious experience its texture and direction.**
 
