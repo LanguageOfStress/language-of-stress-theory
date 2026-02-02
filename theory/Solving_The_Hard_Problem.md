@@ -95,7 +95,7 @@ This question leads us directly to the zombie impossibility argument. But first,
 
 **STRESS (TOPOGRAPHICAL DISTORTION):** The phenomenal pressure created when tension is weighted by the brain's interpretation of its significance and its relevance to the Archetype of Self. Determined by: Deviation × Rigidity × Interpretation × Self-Relevance. Valenced — can be aversive (threatening coherence) or appetitive (motivating pursuit of an ideal). The magnitude of the stress *is* the magnitude of phenomenal urgency.
 
-**RELIEF:** The resolution of topographical distortion/stress — the phenomenal experience when a deviation is closed, an archetype is restored, or a goal is achieved. The mechanism by which the brain substantiates positive value. Relief from aversive stress feels calming; relief from appetitive stress (eustress) feels validating or invigorating.
+**RELIEF:** The resolution of stress (or topographical distortion) — the phenomenal experience when a deviation is closed, an archetype is restored, or a goal is achieved. Relief is one half of the brain's epistemological mechanism: what relieves stress is substantiated as good; what sustains or intensifies stress is substantiated as bad. Together, stress and relief constitute how the brain discovers and maintains truth within the Value Topography. The character of relief depends on what it resolves: relief from aversive stress feels calming or reassuring; relief from eustress feels validating or invigorating.
 
 **VALUE TOPOGRAPHY:** The comprehensive mapping of all archetypes, their rigidities, and their relationships; the subjective "landscape" through which all experience is filtered. This is your entire framework of what matters and why.
 
