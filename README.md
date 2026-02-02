@@ -258,6 +258,7 @@ Direct access to raw theory documents:
 - [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md)
 - [Solving the Hard Problem (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Solving_The_Hard_Problem.md)
 - [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Empirical_Predictions.md)
+- [Technical Summary (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Technical_Summary.md)
 
 **Examples:**
 - [Example: Child Crying (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Child_Crying.md)
