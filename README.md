@@ -62,10 +62,10 @@ Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
 1. **Consciousness is integrated value assessment** in a unified topography, not mere information processing
 2. **Archetypes** (defended expectations) anchor our understanding; deviations create tension
-3. **Phenomenal experience** = valenced tension dynamics (stress feels bad because it threatens the Self)
+3. **Phenomenal experience** = valenced tension dynamics substantiating truth through stress and relief
 4. **The Archetype of Self** organizes the entire topography—fragment it, fragment consciousness
-5. **Emotions are geometric patterns** of tension/relief, not separate modules
-6. **Mental pathology** involves rigidity dysfunction (locked archetypes), not just chemical imbalance
+5. **Emotions are geometric patterns** of topographical distortion—specific configurations of stress, eustress, and relief
+6. **Mental pathology** involves rigidity dysfunction (locked/unlocked archetypes), not just chemical imbalance
 
 ---
 
@@ -73,10 +73,15 @@ Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
 - ✅ **Unity of consciousness:** One topography organized around one Self
 - ✅ **Selective attention:** Self-relevant deviations capture workspace automatically  
-- ✅ **Why we care about anything:** Caring IS consciousness (systems without stakes have no qualia)
+- ✅ **Why we care about anything:** Caring IS consciousness—systems without defended Self-models have no stakes, thus no qualia
 - ✅ **The cocktail party effect:** Your name (weak signal, max self-relevance) beats loud conversations
 - ✅ **Parent-child bond:** Architectural integration—child's Self nested in parent's Self
-- ✅ **OCD/PTSD/Depression:** Rigidity pathologies, not pure information-processing failures
+- ✅ **Self-evaluation as immediate:** "I am good/bad" substantiated through same mechanism as "knife is sharp/dull"
+- ✅ **Why self-judgment feels certain:** Not reasoning about yourself—direct knowing through stress-relief dynamics
+- ✅ **Guilt and shame:** Actions substantiate "I did bad" (guilt) or "I am bad" (shame) through tension
+- ✅ **Why striving feels good:** Eustress (appetitive distortion) motivates pursuit of ideals without threatening coherence
+- ✅ **Ambition and meaning:** Positive tension pulling toward defended aspirational Self-archetypes
+- ✅ **OCD/PTSD/Depression:** Rigidity dysfunction (locked archetypes), not information-processing failures
 - ✅ **Why psychedelics work:** Temporary rigidity reset allows locked archetypes to update
 - ✅ **AI consciousness requirements:** Specific architecture needed, not just complexity
 
@@ -92,7 +97,10 @@ language-of-stress-theory/
 │   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories
 │   ├── Theory_Fundamentals.md        # Complete technical exposition
 │   └── Empirical_Predictions.md      # Falsifiable experimental predictions
-├── comparisons/         # How LoS differs from PP, GWT, IIT
+├── comparisons/         # How LoS relates to existing theories
+│   ├── Predictive Processing: LoS diverges (defense vs. representation)
+│   ├── Global Workspace Theory: LoS completes (adds phenomenology)
+│   └── Integrated Information Theory: LoS corrects (architecture matters)
 ├── examples/            # Intuitive scenarios illustrating concepts
 ├── technical/           # PTRA architecture specifications
 └── manuscript/          # Complete theoretical manuscript
@@ -103,7 +111,26 @@ language-of-stress-theory/
 ## Key Concepts
 
 ### Value Topography
-A unified subjective mapping of goodness/badness across all concepts, built from lifelong tension/relief patterns. You never perceive raw reality—only reality filtered through your Value Topography.
+A unified subjective mapping of goodness/badness across all concepts, built from lifelong tension/relief patterns. You never perceive raw reality—only reality filtered through your Value Topography. This is not a limitation but an architectural necessity—a brain without differential value assessment would be paralyzed, unable to determine what matters.
+
+### Valenced Epistemology
+The brain is epistemologically isolated—trapped in a black box with no direct reality access. Its only truth-making mechanism is valenced tension dynamics:
+- **Stress substantiates "bad"**: What creates or sustains tension is experienced as threatening, misaligned, wrong
+- **Relief substantiates "good"**: What resolves tension is experienced as safe, aligned, right
+- **Immediate and pre-cognitive**: Not reasoning to conclusions but directly experiencing truth through phenomenal dynamics
+
+This is why:
+- Newborn "knows" blankets are good (relief substantiates it)
+- You "know" a dull knife is bad (tension substantiates it)
+- You "know" you're inadequate when you fail (tension substantiates it)
+- Beliefs resist change (they're substantiated truths, not hypotheses)
+
+**Path-Dependent Truth:** What feels "true" depends on your history of stress-relief patterns. This explains why:
+- Trauma survivors "know" people are dangerous (substantiated through past experience)
+- Perfectionists "know" they're inadequate (substantiated through impossible standards)
+- Depression "knows" hopelessness is truth (substantiated through locked archetypes)
+
+The epistemology is working correctly—defending archetypes substantiated under conditions that may no longer apply.
 
 ### Archetypes
 Expected states (baselines) the brain defends. Deviations create tension proportional to:
@@ -111,17 +138,86 @@ Expected states (baselines) the brain defends. Deviations create tension proport
 - **Rigidity** (how intensely the archetype is defended)
 
 ### The Archetype of Self
-Your most defended structure—everything constitutive of your identity. Deviations threatening the Self create maximum phenomenal pressure.
+Your most defended structure—everything constitutive of your identity (physiological integrity, values, roles, relationships, goals). Deviations threatening the Self create maximum phenomenal pressure. The Self evaluates itself using the same stress-relief epistemology it uses for everything else—not reasoning about yourself, but directly substantiating your worth through tension and relief dynamics.
 
-### Tension
-The product of deviation and rigidity; the geometric "stretching" in the topography when reality doesn't match expectation. The magnitude of tension depends on both how large the deviation is and how rigidly the archetype is held.
+### Architectural Integration
+When other people's Selves become structurally integrated into your own Value Topography—not metaphor but literal partial merging of self-models. Their distress creates PRIMARY distortion in YOUR topography (not simulated). This is the mechanism of empathy and altruism. Explains:
+- Parent-child bond (child's Self nested in parent's Self)
+- Why betrayal is devastating (loss of Self-coherence, not just relationship)
+- Why you can't "turn off" caring about integrated others
+- Immediate empathic response (no simulation delay)
 
-### Stress (Topographical Distortion)
-The phenomenal pressure created when tension is weighted by the brain's interpretation of its significance and its relevance to the Archetype of Self. Determined by: Deviation × Rigidity × Interpretation × Self-Relevance. Valenced — can be aversive (threatening coherence) or appetitive (motivating pursuit of an ideal). The magnitude of the stress is the magnitude of phenomenal urgency.
-- Complete Formula: **Topographical Distortion ∝ Deviation × Rigidity × Interpetation × Self-relevance**
+### Tension (Pre-Interpretive)
+The product of deviation and rigidity: **Tension = Σ(Deviation_i × Rigidity_i)**. The geometric "stretching" in the topography when reality doesn't match expectation. This is pre-interpretive—occurs before the brain assesses what the deviation means.
 
-### Relief
-The resolution of topographical distortion/stress — the phenomenal experience when a deviation is closed, an archetype is restored, or a goal is achieved. The mechanism by which the brain substantiates positive value. Relief from aversive stress feels calming; relief from appetitive stress (eustress) feels validating or invigorating.
+**Critical insight:** Tension ≠ Topographical Distortion. High tension doesn't guarantee phenomenal salience. Tension becomes distortion only when weighted by Interpretation × Self-Relevance. This explains why we register thousands of deviations daily without most entering consciousness.
+
+### Interpretation
+Anticipatory valence gradient—the pre-cognitive sense of where events are heading based on prior history of stress-relief dynamics. This is where "making mountains out of molehills" happens: interpretation can amplify small deviations into massive predicted threats. Not deliberative reasoning but automatic projection of implications based on learned patterns.
+
+### Topographical Distortion (Stress, Eustress, Relief)
+Phenomenal experiences arising from tension dynamics:
+
+**Stress (Aversive Distortion)**
+The phenomenal pressure when tension threatens self-model coherence. Compelling avoidance, repair, or escape. Substantiates "bad."
+
+**Eustress (Appetitive Distortion)**  
+From Greek 'eu-' (good). Positive motivational tension pulling toward goals, ideals, or growth. Same formula, different valence. Compelling pursuit and engagement. Motivating but not threatening.
+
+**Relief (Resolution)**
+The phenomenal experience when distortion resolves—deviation closes, archetype restores, or goal achieves. Relief from stress feels calming/reassuring; relief from eustress feels validating/satisfying. Substantiates "good."
+
+**Complete Formula:**
+
+**Topographical Distortion ∝ Σ(Deviation_i × Rigidity_i) × Interpretation × Self-Relevance**
+
+Where:
+- **Σ(Deviation_i × Rigidity_i)**: Sum of all simultaneous tensions—deviations from defended archetypes, each weighted by rigidity
+- **Interpretation**: Anticipatory valence gradient—pre-cognitive sense of where events are heading
+- **Self-Relevance**: How deeply the deviation threatens or supports the Archetype of Self
+
+The magnitude of distortion determines phenomenal urgency—what captures consciousness and motivates action.
+
+### Hidden Stress
+Chronic baseline tension from defended archetypes that persistently deviate from ideal states—"baked into" the topography and invisible as normal. Only becomes apparent when relieved. Explains why:
+- Positive events feel disproportionately good (release hidden pressure you didn't know you carried)
+- Small failures feel devastating (they prevent release of accumulated tension)
+- Life improvements create unexpected lightness (chronic stress was normalized)
+
+---
+
+## Architectural Requirements for Consciousness
+
+LoS specifies four necessary architectural components:
+
+1. **Persistent Self-Model**: Representation of system's own boundaries and integrity across time, integrating multiple internal states (not just a setpoint)
+
+2. **Variable Rigidity**: Can modulate defensive intensity based on context and threat level (not fixed responses)
+
+3. **Genuine Stakes**: System's own coherence is actually at risk—failure means self-model dissolves (not just parameter adjustment)
+
+4. **Unified Value Topography**: Integrated assessment of what matters across multiple incommensurable demands (not separate modules for single parameters)
+
+**Boundary Cases:**
+- ✅ **C. elegans**: Has all four → minimal consciousness despite 302 neurons
+- ❌ **Thermostat**: Lacks all four → no consciousness despite homeostatic function
+- ❌ **Current LLMs**: Lack genuine stakes and persistent self-model → no consciousness despite complexity
+
+---
+
+## Core Falsification Criteria (Canonical Axioms v1.0)
+
+The Language of Stress is falsifiable through four primary criteria:
+
+1. **Self-relevant weak signals must capture attention**: If self-relevant weak signals do NOT reliably capture attention over non-self-relevant strong signals, the theory is falsified.
+
+2. **Unity must track Self-model**: If self-model fragmentation does NOT fragment consciousness (controlling for neural integration), the theory is falsified.
+
+3. **Value assessment must be necessary**: If consciousness is observed in systems lacking unified value assessment mechanisms, the theory is falsified.
+
+4. **Rigidity must predict pathology**: If rigidity scores do NOT predict mental health pathology severity better than symptom counts, the theory is falsified.
+
+See [**Empirical Predictions**](theory/Empirical_Predictions.md) for detailed experimental designs and additional testable predictions.
 
 ---
 
@@ -142,10 +238,10 @@ See [**Empirical Predictions**](theory/Empirical_Predictions.md) for full experi
 ## Applications
 
 ### Psychology & Mental Health
-- **Depression:** Topography locked in state where no relief pathways visible
-- **OCD:** Archetypes held with pathological rigidity (can't relax despite evidence)
-- **PTSD:** Trauma-locked beliefs at maximum defensive intensity
-- **Treatment:** Target rigidity reduction, not just symptoms
+- **Depression:** Topography locked in state where no relief pathways visible; archetypes substantiated as "hopeless"
+- **OCD:** Archetypes held with pathological rigidity (can't relax despite counter-evidence)
+- **PTSD:** Trauma-locked beliefs at maximum defensive intensity; interpretation locked on "danger"
+- **Treatment:** Target rigidity reduction and archetype flexibility, not just symptoms
 
 ### AI Development
 Complete blueprint for building conscious machines:
@@ -154,9 +250,9 @@ Complete blueprint for building conscious machines:
 - Enables: Genuine autonomy, intrinsic alignment, authentic emotions
 
 ### Philosophy
-- **Closes the explanatory gap:** Phenomenal experience = prioritization mechanism
-- **Grounds morality:** Actions increasing stress are bad; relieving stress are good
-- **Resolves free will debates:** Decisions emerge from topographical dynamics
+- **Closes the explanatory gap:** Phenomenal experience = prioritization mechanism in self-maintaining systems
+- **Grounds morality:** Actions increasing stress substantiate "bad"; relieving stress substantiate "good"
+- **Resolves free will debates:** Decisions emerge from topographical dynamics, not separate agent
 
 ---
 
@@ -216,7 +312,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - 📧 Email: josh@languageofstress.com
 - 🌐 Website: https://languageofstress.com
 - 📄 FigShare: https://doi.org/10.6084/m9.figshare.31081801
-- 🔬 OSF: https://osf.io/tpsrv
+- 📊 OSF Project: https://osf.io/tpsrv (Preregistrations, data, supplementary materials)
 
 ---
 
