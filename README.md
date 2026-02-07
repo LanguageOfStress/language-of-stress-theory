@@ -1,6 +1,6 @@
-# Formal Overview of the The Language of Stress Theory of Consciousness
+# Formal Overview of the The Language of Stress (LoS)
 
-**Valenced Tension Dynamics as the Architecture of Phenomenal Experience**
+**The Language of Stress: A Value-Primitive Theory of Consciousness**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-FigShare-blue)](https://doi.org/10.6084/m9.figshare.31081801)
@@ -273,7 +273,7 @@ GitHub. https://github.com/LanguageOfStress/language-of-stress-theory
 
 **For the complete theory, cite:**
 ```
-Pace, J. C. (2026). The Language of Stress: The Architecture of Phenomenal Experience. GitHub. 
+Pace, J. C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. GitHub. 
 https://github.com/LanguageOfStress/language-of-stress-theory
 ```
 
@@ -281,7 +281,7 @@ https://github.com/LanguageOfStress/language-of-stress-theory
 ```bibtex
 @misc{pace2026language,
   author = {Pace, Joshua Craig},
-  title = {The Language of Stress: The Architecture of Phenomenal Experience},
+  title = {The Language of Stress: A Value-Primitive Theory of Consciousness},
   year = {2026},
   publisher = {GitHub},
   url = {https://github.com/LanguageOfStress/language-of-stress-theory}
