@@ -371,7 +371,7 @@ Direct access to raw theory documents:
 - [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
 
 **Applications:**
-- [Mental Health: Clinical Applications and Treatment Implications (RAW)]()
+- [Mental Health: Clinical Applications and Treatment Implications (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/applications/Mental_Health.md)
 
 **Complete Manuscript:**
 - [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
