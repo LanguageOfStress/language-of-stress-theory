@@ -30,6 +30,9 @@ Check [**What This Theory Is Not**](theory/What_This_Theory_Is_Not.md) - Critica
 **Ready for the deep dive?** 
 Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete technical exposition with mathematical framework
 
+**Looking for mental health applications?**
+Check out [**Mental Health Applications**](applications/Mental_Health.md) - Clinical Applications and Treatment Implications
+
 **Want the answer to the Hard Problem?**
 Read [**Solving The Hard Problem**](theory/Solving_The_Hard_Problem.md) - In depth resolution of the Hard Problem of Consciousness
 
@@ -103,6 +106,7 @@ language-of-stress-theory/
 │   └── Integrated Information Theory: LoS corrects (architecture matters)
 ├── examples/            # Intuitive scenarios illustrating concepts
 ├── technical/           # PTRA architecture specifications
+├── applications/        # Real-world applications of the theory
 └── manuscript/          # Complete theoretical manuscript
 ```
 
@@ -266,8 +270,7 @@ GitHub. https://github.com/LanguageOfStress/language-of-stress-theory
 
 **For the complete theory, cite:**
 ```
-Pace, J. C. (2026). The Language of Stress: A Materialist Resolution 
-to the Hard Problem of Consciousness. GitHub. 
+Pace, J. C. (2026). The Language of Stress: The Architecture of Phenomenal Experience. GitHub. 
 https://github.com/LanguageOfStress/language-of-stress-theory
 ```
 
@@ -366,6 +369,9 @@ Direct access to raw theory documents:
 - [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
 - [Comparison: Integrated Information Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md)
 - [Comparison: Predictive Processing (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md)
+
+**Applications:**
+- [Mental Health: Clinical Applications and Treatment Implications (RAW)]()
 
 **Complete Manuscript:**
 - [Main Manuscript (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/The_Language_of_Stress-by-Joshua_Craig_Pace.md)
