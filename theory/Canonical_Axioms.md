@@ -1,20 +1,19 @@
 # **The Language of Stress: Canonical Axioms**
 
 Joshua Craig Pace   
-ORCID: [https://orcid.org/0009-0008-0046-440X](https://orcid.org/0009-0008-0046-440X)
-
-February 2026
+[https://orcid.org/0009-0008-0046-440X](https://orcid.org/0009-0008-0046-440X)
 
 Version 1.0
 
-Companion to:  
-Pace, J.C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness
+Supplementary Material for: 
+
+Pace, J.C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. PsyArXiv. https://doi.org/\[Preprint DOI; update after assignment\]
 
 **Introduction** 
 
 This document specifies the canonical axioms of the Language of Stress (LoS) theory of consciousness. These axioms constitute the formal foundation from which all theoretical claims, empirical predictions, and applications derive. 
 
-**Purpose:** 
+Purpose: 
 
 This document serves as: 
 
@@ -22,11 +21,11 @@ This document serves as:
 2. A falsification target for empirical research   
 3. A foundation for extensions and applications 
 
-**Usage:** 
+Usage: 
 
 When citing specific LoS claims, reference both the main theoretical paper (Pace, 2026\) and the specific axiom number from this document. Example: "According to LoS Axiom 4, the Archetype of Self organizes the Value Topography (Pace, 2026)." 
 
-**Versioning:** 
+Versioning: 
 
 This is version 1.0. Any substantive changes to axioms will increment the version number and receive a new DOI. Minor clarifications will be noted in the "Clarifying Commitments" section without version change.
 
@@ -139,12 +138,6 @@ This document constitutes the canonical axiomatic formulation (v1.0) of the Lang
 
 **Resources**
 
+Open Science Framework: [https://osf.io/tpsrv](https://osf.io/tpsrv)
+
 Project Website: [https://www.languageofstress.com](https://www.languageofstress.com)
-
-GitHub: [https://github.com/LanguageOfStress/language-of-stress-theory](https://github.com/LanguageOfStress/language-of-stress-theory)
-
-**References**
-
-Pace, J. C. (2026). The language of stress project. *Open Science Framework*. https://osf.io/tpsrv
-
-Pace, J. C. (2026). The language of stress: Valenced tension dynamics and the materialist resolution of the hard problem. *FigShare*. https://doi.org/10.6084/m9.figshare.31081801
