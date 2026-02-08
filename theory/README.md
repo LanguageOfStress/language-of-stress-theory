@@ -86,32 +86,13 @@ This folder contains the canonical theoretical foundation of the Language of Str
 2. Theory Fundamentals (focus on rigidity dysfunction)
 3. Empirical Predictions (clinical studies)
 4. [Examples](../examples/) (especially real-world scenarios)
+5. [Mental Health: Clinical Applications and Treatment Implications](../applications/Mental_Health.md) (direct applications to mental health and treatment)
 
 **Outcome:** Framework for understanding mental health pathology
 
 ---
-
 ## Citation Guidance
-
-### When citing the axiomatic foundation:
-```
-Pace, J. C. (2026). The Language of Stress: Canonical Axioms (v1.0). 
-GitHub. https://github.com/LanguageOfStress/language-of-stress-theory
-```
-
-### When citing the complete theory:
-```
-Pace, J. C. (2026). The Language of Stress: A Materialist Resolution 
-to the Hard Problem of Consciousness. GitHub. 
-https://github.com/LanguageOfStress/language-of-stress-theory
-```
-
-### When citing specific predictions:
-```
-Pace, J. C. (2026). The Language of Stress: Empirical Predictions. 
-GitHub. https://github.com/LanguageOfStress/language-of-stress-theory
-```
-
+For citation guidance visit: https://osf.io/tpsrv/wiki
 ---
 
 ## Document Relationships
@@ -216,5 +197,3 @@ These are research programs, not theoretical gaps. The core framework makes fals
 **Last Updated:** January 2026
 **Canonical Version:** v1.0
 **Status:** Stable theoretical foundation
-
-For questions, clarifications, or discussions, see [Contributing Guidelines](../CONTRIBUTING.md) or contact josh@languageofstress.com
