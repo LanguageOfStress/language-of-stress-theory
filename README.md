@@ -33,9 +33,6 @@ Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete tech
 **Looking for mental health applications?**
 Check out [**Mental Health Applications**](applications/Mental_Health.md) - Clinical Applications and Treatment Implications
 
-**Want the answer to the Hard Problem?**
-Read [**Solving The Hard Problem**](theory/Solving_The_Hard_Problem.md) - In depth resolution of the Hard Problem of Consciousness
-
 **Want to see it in action?**
 Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
@@ -265,28 +262,7 @@ Complete blueprint for building conscious machines:
 
 ## How to Cite
 
-**For the axiomatic framework, cite:**
-```
-Pace, J. C. (2026). The Language of Stress: Canonical Axioms (v1.0). 
-GitHub. https://github.com/LanguageOfStress/language-of-stress-theory
-```
-
-**For the complete theory, cite:**
-```
-Pace, J. C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. GitHub. 
-https://github.com/LanguageOfStress/language-of-stress-theory
-```
-
-**BibTeX:**
-```bibtex
-@misc{pace2026language,
-  author = {Pace, Joshua Craig},
-  title = {The Language of Stress: A Value-Primitive Theory of Consciousness},
-  year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/LanguageOfStress/language-of-stress-theory}
-}
-```
+visit OSF project for citation guidance: https://osf.io/tpsrv/wiki
 
 ---
 
@@ -349,7 +325,6 @@ Direct access to raw theory documents:
 - [Overview Non-Technical (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Overview_Non-Technical.md)
 - [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
 - [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md)
-- [Solving the Hard Problem (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Solving_The_Hard_Problem.md)
 - [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Empirical_Predictions.md)
 - [Technical Summary (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Technical_Summary.md)
 
