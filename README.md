@@ -21,9 +21,6 @@
 **Want to Read the Official Theory Paper?** 
 Start with [**Language of Stress: A Value-Primitive Theory of Consciousness**](theory/Official_Paper.md) - The official publication of the theory on PsyArXiv
 
-**New to consciousness theory?** 
-Start with [**Overview (Non-Technical)**](theory/Overview_Non-Technical.md) - An accessible introduction to why consciousness is fundamentally about what matters
-
 **Want the formal framework?** 
 Read [**Canonical Axioms**](theory/Canonical_Axioms.md) - The authoritative axiomatic foundation (v1.0)
 
@@ -100,7 +97,6 @@ language-of-stress-theory/
 ├── theory/              # Core theoretical framework
 │   ├── Official_Paper.md             # Formal introduction of the theory (v1.0)
 │   ├── Canonical_Axioms.md           # Formal axiomatic foundation (v1.0)
-│   ├── Overview_Non-Technical.md     # Accessible introduction
 │   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories (v1.0)
 │   ├── Theory_Fundamentals.md        # Complete technical exposition (v1.0)
 │   └── Empirical_Predictions.md      # Falsifiable experimental predictions (v1.0)
@@ -327,7 +323,6 @@ Direct access to raw theory documents:
 **Core Theory:**
 - [Main Paper (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Official_Paper.md)
 - [Canonical Axioms (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Canonical_Axioms.md)
-- [Overview Non-Technical (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Overview_Non-Technical.md)
 - [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
 - [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md)
 - [Empirical Predictions (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Empirical_Predictions.md)
