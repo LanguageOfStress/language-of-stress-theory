@@ -6,9 +6,19 @@ This folder contains the canonical theoretical foundation of the Language of Str
 
 ## Document Hierarchy & Reading Guide
 
+### 📕 Access the Official Paper (markdown format)
+
+**Start Here:** [**Official Paper**](Official_Paper.md)
+- **Purpose:** Formal publication of the Language of Stress theory
+- **Audience:** Academics, theorists, AI researchers
+- **Length:** ~30 minutes
+- **Status:** Authoritative primary document
+- **Contains:** Core theory, zombie impossibility, dissolution of the Hard Problem, comparisions to other theories, predictions, etc
+
+
 ### 📘 For First-Time Readers
 
-**Start here:** [**Overview (Non-Technical)**](Overview_Non-Technical.md)
+**Read next:** [**Overview (Non-Technical)**](Overview_Non-Technical.md)
 - **Purpose:** Accessible introduction without technical prerequisites
 - **Audience:** Anyone curious about consciousness
 - **Length:** ~15 minutes
