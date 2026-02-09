@@ -6,7 +6,7 @@ This folder contains the canonical theoretical foundation of the Language of Str
 
 ## Document Hierarchy & Reading Guide
 
-### 📕 Access the Official Paper (markdown format)
+### 📗 Access the Official Paper (markdown format)
 
 **Start Here:** [**Official Paper**](Official_Paper.md)
 - **Purpose:** Formal publication of the Language of Stress theory
