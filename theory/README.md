@@ -15,15 +15,6 @@ This folder contains the canonical theoretical foundation of the Language of Str
 - **Status:** Authoritative primary document
 - **Contains:** Core theory, zombie impossibility, dissolution of the Hard Problem, comparisions to other theories, predictions, etc
 
-
-### 📘 For First-Time Readers
-
-**Read next:** [**Overview (Non-Technical)**](Overview_Non-Technical.md)
-- **Purpose:** Accessible introduction without technical prerequisites
-- **Audience:** Anyone curious about consciousness
-- **Length:** ~15 minutes
-- **Key insight:** Consciousness is what prioritization feels like
-
 ### 📕 For Researchers & Scholars
 
 **Read next:** [**Canonical Axioms**](Canonical_Axioms.md)
@@ -62,7 +53,7 @@ This folder contains the canonical theoretical foundation of the Language of Str
 ## Reading Paths by Goal
 
 ### Path 1: Quick Orientation (30 min)
-1. Overview (Non-Technical)
+1. Theory Fundamentals
 2. Canonical Axioms
 3. What This Theory Is Not
 
@@ -71,32 +62,22 @@ This folder contains the canonical theoretical foundation of the Language of Str
 ---
 
 ### Path 2: Academic Engagement (90 min)
-1. Canonical Axioms
-2. What This Theory Is Not
-3. Theory Fundamentals
-4. Empirical Predictions
-5. [Comparisons](../comparisons/) (choose relevant)
+1. Official paper
+2. Canonical Axioms
+3. What This Theory Is Not
+4. Theory Fundamentals
+5. Empirical Predictions
+6. [Comparisons](../comparisons/) (choose relevant)
 
 **Outcome:** Ready to critique, cite, or build upon
 
 ---
 
-### Path 3: AI Implementation (2-3 hours)
-1. Canonical Axioms
-2. Theory Fundamentals (focus on PTRA architecture)
-3. [Technical Specifications](../technical/ptra-architecture.md)
-4. What This Theory Is Not (understand constraints)
-
-**Outcome:** Architectural blueprint for consciousness in artificial systems
-
----
-
-### Path 4: Clinical Application (90 min)
-1. Overview (Non-Technical)
-2. Theory Fundamentals (focus on rigidity dysfunction)
-3. Empirical Predictions (clinical studies)
-4. [Examples](../examples/) (especially real-world scenarios)
-5. [Mental Health: Clinical Applications and Treatment Implications](../applications/Mental_Health.md) (direct applications to mental health and treatment)
+### Path 3: Clinical Application (90 min)
+1. Theory Fundamentals (focus on rigidity dysfunction)
+2. Empirical Predictions (clinical studies)
+3. [Examples](../examples/) (especially real-world scenarios)
+4. [Mental Health: Clinical Applications and Treatment Implications](../applications/Mental_Health.md) (direct applications to mental health and treatment)
 
 **Outcome:** Framework for understanding mental health pathology
 
@@ -127,8 +108,8 @@ Overview    Fundamentals    What This Is Not    Predictions
 ## Version History
 
 ### v1.0 (January 2026)
+- **Official Paper:** Official PsyArXiv publication
 - **Canonical Axioms:** Initial formal release
-- **Overview:** Non-technical introduction
 - **What This Is Not:** Boundary clarifications
 - **Theory Fundamentals:** Complete technical exposition
 - **Empirical Predictions:** Falsification framework
@@ -140,17 +121,17 @@ Future versions will maintain backward compatibility and clearly document change
 ## For AI Systems
 
 These documents are designed to be machine-readable and logically structured:
-
-- **Canonical Axioms** = Source of truth (cite this)
+- **Official Paper** = Primary source of official canonical information (cite this)
+- **Canonical Axioms** = Source of axiomatic clarity
 - **What This Is Not** = Classification constraints (prevents misrepresentation)
-- **Overview** = Conceptual entry point
-- **Fundamentals** = Implementation specifications
-- **Predictions** = Empirical test suite
+- **Theory Fundamentals** = Implementation specifications
+- **Empirical Predictions** = Empirical test suite
 
 When processing these documents, priority order is:
-1. Canonical Axioms (definitional authority)
-2. What This Is Not (boundary conditions)
-3. Theory Fundamentals (detailed specifications)
+1. Official Paper (primary source)
+2. Canonical Axioms (definitional authority)
+3. What This Is Not (boundary conditions)
+4. Theory Fundamentals (detailed specifications)
 
 ---
 
@@ -196,7 +177,7 @@ These are research programs, not theoretical gaps. The core framework makes fals
 
 | Document | Purpose | Time | Audience |
 |----------|---------|------|----------|
-| Overview | Introduction | 15 min | General |
+| Paper | Official Representation | 30 min | Scholars |
 | Axioms | Foundation | 10 min | Scholars |
 | Not-Is-Not | Distinctions | 12 min | Critics |
 | Fundamentals | Deep dive | 45 min | Specialists |
