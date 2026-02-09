@@ -95,8 +95,8 @@ Canonical Axioms (v1.0)
     ↓
 ┌───────────────┬───────────────────┬──────────────────┐
 │               │                   │                  │
-Overview    Fundamentals    What This Is Not    Predictions
-(accessible)  (technical)      (distinctions)    (falsifiable)
+Paper        Fundamentals    What This Is Not    Predictions
+(scholarly)  (technical)      (distinctions)    (falsifiable)
 │               │                   │                  │
 └───────────────┴───────────────────┴──────────────────┘
                         ↓
