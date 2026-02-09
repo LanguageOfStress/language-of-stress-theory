@@ -18,6 +18,9 @@
 
 ## Quick Start
 
+**Want to Read the Official Theory Paper?** 
+Start with [**Language of Stress: A Value-Primitive Theory of Consciousness**](theory/Official_Paper.md) - The official publication of the theory on PsyArXiv
+
 **New to consciousness theory?** 
 Start with [**Overview (Non-Technical)**](theory/Overview_Non-Technical.md) - An accessible introduction to why consciousness is fundamentally about what matters
 
@@ -25,13 +28,13 @@ Start with [**Overview (Non-Technical)**](theory/Overview_Non-Technical.md) - An
 Read [**Canonical Axioms**](theory/Canonical_Axioms.md) - The authoritative axiomatic foundation (v1.0)
 
 **Comparing to other theories?** 
-Check [**What This Theory Is Not**](theory/What_This_Theory_Is_Not.md) - Critical distinctions from PP, GWT, IIT, and others
+Check [**What This Theory Is Not**](theory/What_This_Theory_Is_Not.md) - Critical distinctions from PP, GWT, IIT, and others (v1.0)
 
 **Ready for the deep dive?** 
-Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete technical exposition with mathematical framework
+Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete technical exposition with mathematical framework (v1.0)
 
 **Looking for mental health applications?**
-Check out [**Mental Health Applications**](applications/Mental_Health.md) - Clinical Applications and Treatment Implications
+Check out [**Mental Health Applications**](applications/Mental_Health.md) - Clinical Applications and Treatment Implications (v1.0)
 
 **Want to see it in action?**
 Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
@@ -95,11 +98,12 @@ Explore [**Extended Explorations**](manuscript/Extended_Explorations.md) - Origi
 ```
 language-of-stress-theory/
 ├── theory/              # Core theoretical framework
+│   ├── Official_Paper.md             # Formal introduction of the theory (v1.0)
 │   ├── Canonical_Axioms.md           # Formal axiomatic foundation (v1.0)
 │   ├── Overview_Non-Technical.md     # Accessible introduction
-│   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories
-│   ├── Theory_Fundamentals.md        # Complete technical exposition
-│   └── Empirical_Predictions.md      # Falsifiable experimental predictions
+│   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories (v1.0)
+│   ├── Theory_Fundamentals.md        # Complete technical exposition (v1.0)
+│   └── Empirical_Predictions.md      # Falsifiable experimental predictions (v1.0)
 ├── comparisons/         # How LoS relates to existing theories
 │   ├── Predictive Processing: LoS diverges (defense vs. representation)
 │   ├── Global Workspace Theory: LoS completes (adds phenomenology)
@@ -321,6 +325,7 @@ Your rigorous work created the foundation for this attempt at synthesis.
 Direct access to raw theory documents:
 
 **Core Theory:**
+- [Main Paper (RAW)]()
 - [Canonical Axioms (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Canonical_Axioms.md)
 - [Overview Non-Technical (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Overview_Non-Technical.md)
 - [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
