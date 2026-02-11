@@ -10,7 +10,7 @@ version: 1.0.0
 date-released: "2026-01-28"
 identifiers:
   - type: doi
-    value: "10.6084/m9.figshare.31081801"
+    value: "10.6084/m9.figshare.31320532"
     description: "FigShare DOI"
   - type: doi
     value: "10.17605/OSF.IO/TPSRV"
