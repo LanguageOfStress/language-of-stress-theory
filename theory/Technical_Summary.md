@@ -12,7 +12,7 @@
 | **Status** | Published |
 | **License** | MIT (open science) |
 | **Commercial Applications** | Patent pending (PTRA implementation) |
-| **DOI** | [10.6084/m9.figshare.31081801](https://doi.org/10.6084/m9.figshare.31081801) |
+| **DOI** | https://doi.org/10.6084/m9.figshare.31320532 |
 | **Contact** | josh@languageofstress.com |
 
 ---
@@ -139,9 +139,9 @@ ORCID: [0009-0008-0046-440X](https://orcid.org/0009-0008-0046-440X)
 
 **Cite as:**
 
-Chicago: Pace, Joshua Craig. *The Language of Stress: Valenced Tension Dynamics and the Materialist Resolution of the Hard Problem*. FigShare, 2026\. https://doi.org/10.6084/m9.figshare.31081801
+Chicago: Pace, Joshua Craig. *The Language of Stress: A Value-Primitive Theory of Consciousness*. FigShare, 2026\. https://doi.org/10.6084/m9.figshare.31320532
 
-APA: Pace, J. C. (2026). *The language of stress: Valenced tension dynamics and the materialist resolution of the hard problem*. FigShare. https://doi.org/10.6084/m9.figshare.31081801
+APA: Pace, J. C. (2026). *The language of stress: A value-primitive theory of consciousness*. FigShare. FigShare. https://doi.org/10.6084/m9.figshare.31320532
 
 Inline: (Pace, 2026\) or "Pace (2026) proposes that…"
 
@@ -153,7 +153,4 @@ Inline: (Pace, 2026\) or "Pace (2026) proposes that…"
 
 ---
 
-📄 DOI: [10.6084/m9.figshare.31081801](https://doi.org/10.6084/m9.figshare.31081801) (FigShare) 🔬 OSF: [10.17605/OSF.IO/TPSRV](https://osf.io/tpsrv/overview) 💻 GitHub: [LanguageOfStress/language-of-stress-theory](https://github.com/LanguageOfStress/language-of-stress-theory)
-
-Theoretical Framework: Open Science (MIT License) · PTRA Implementation: Patent Pending © 2026 Joshua Craig Pace
 

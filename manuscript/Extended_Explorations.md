@@ -58,7 +58,7 @@ author's original conceptual exploration of consciousness as valenced tension dy
 The core theoretical claims have been formalized in:
 
 Pace, J.C. (2026). "The Language of Stress: A Value-Primitive Theory of Consciousness."   
-PsyArXiv. https://doi.org/\[to be added\]
+FigShare. https://doi.org/10.6084/m9.figshare.31320532
 
 That peer-reviewed paper constitutes the canonical academic statement of the theory,   
 including:  
@@ -86,7 +86,7 @@ context than the academic paper.
 HOW TO CITE THIS WORK ═════════════════════════════════════════════════════════════════
 
 FOR THEORETICAL CLAIMS:   
-Pace, J.C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. PsyArXiv. \[DOI\] 
+Pace, J.C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. FigShare. https://doi.org/10.6084/m9.figshare.31320532
 
 FOR TECHNICAL IMPLEMENTATIONS OR EXTENDED CONTEXT:   
 Pace, J.C. (2026). The Language of Stress: Extended Explorations. FigShare. https://doi.org/10.6084/m9.figshare.31081801 

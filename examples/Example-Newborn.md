@@ -8,7 +8,7 @@ Version 1.0
 
 Supplementary Material for: 
 
-Pace, J.C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. PsyArXiv. https://doi.org/\[Preprint DOI; update after assignment\]
+Pace, J.C. (2026). The Language of Stress: A Value-Primitive Theory of Consciousness. FigShare. https://doi.org/10.6084/m9.figshare.31320532
 
 # **Introduction**
 
