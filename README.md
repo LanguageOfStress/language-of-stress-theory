@@ -37,7 +37,7 @@ Check out [**Mental Health Applications**](applications/Mental_Health.md) - Clin
 Browse [**Examples**](examples/) - Vivid scenarios illustrating core concepts
 
 **Want to dive into the conceptual backdrop of the theory?**
-Explore [**Extended Explorations**](manuscript/Extended_Explorations.md) - Original pre-formalization conceptualization of the theory. Non-academic, broader in scope.
+Explore [**Extended Explorations**](explorations/Extended_Explorations.md) - Original pre-formalization conceptualization of the theory. Non-academic, broader in scope.
 
 ---
 
@@ -108,7 +108,7 @@ language-of-stress-theory/
 ├── essays/              # How LoS reframes or resolves common debates (Chalmers' Zombies, Free Will)
 ├── technical/           # PTRA architecture specifications
 ├── applications/        # Real-world applications of the theory
-└── manuscript/          # Original conceptualization of the theory (pre-formalization)
+└── explorations/          # Original conceptualization of the theory (pre-formalization)
 ```
 
 ---
@@ -348,5 +348,5 @@ Direct access to raw theory documents:
 **Applications:**
 - [Mental Health: Clinical Applications and Treatment Implications (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/applications/Mental_Health.md)
 
-**Extended Explorations (Original Manuscript):**
-- [Extended Explorations (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/manuscript/Extended_Explorations.md)
+**Extended Explorations (Early formulation of theory):**
+- [Extended Explorations (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/explorations/Extended_Explorations.md)
