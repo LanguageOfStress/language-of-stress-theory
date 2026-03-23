@@ -105,6 +105,7 @@ language-of-stress-theory/
 │   ├── Global Workspace Theory: LoS completes (adds phenomenology)
 │   └── Integrated Information Theory: LoS corrects (architecture matters)
 ├── examples/            # Intuitive scenarios illustrating concepts
+├── essays/              # How LoS reframes or resolves common debates (Chalmers' Zombies, Free Will)
 ├── technical/           # PTRA architecture specifications
 ├── applications/        # Real-world applications of the theory
 └── manuscript/          # Original conceptualization of the theory (pre-formalization)
@@ -334,6 +335,9 @@ Direct access to raw theory documents:
 - [Example: Newborn (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Newborn.md)
 - [Example: Sports Fan (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Sports_Fan.md)
 - [Example: Hunger (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Hunger.md)
+
+**Essays:**
+- [Essay: The Fatal Flaw in Chalmers' Zombies (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/essays/Essay-The_Fatal_Flaw_in_Chalmers_Zombies.md)
 
 **Comparisons:**
 - [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
