@@ -338,6 +338,7 @@ Direct access to raw theory documents:
 
 **Essays:**
 - [Essay: The Fatal Flaw in Chalmers' Zombies (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/essays/Essay-The_Fatal_Flaw_in_Chalmers_Zombies.md)
+- [Essay: You Are The Whole Machine (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/essays/Essay-You_Are_The_Whole_Machine.md)
 
 **Comparisons:**
 - [Comparison: Global Workspace Theory (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md)
