@@ -19,16 +19,18 @@
 ## Quick Start
 
 **Want to Read the Official Theory Paper?** 
-Start with [**Language of Stress: A Value-Primitive Theory of Consciousness**](theory/Official_Paper.md) - The official publication of the theory on PsyArXiv
+Start with [**Language of Stress: A Value-Primitive Theory of Consciousness**](theory/Official_Paper.md) - The official publication of the theory
 
 **Want the formal framework?** 
 Read [**Canonical Axioms**](theory/Canonical_Axioms.md) - The authoritative axiomatic foundation (v1.0)
 
 **Comparing to other theories?** 
 Check [**What This Theory Is Not**](theory/What_This_Theory_Is_Not.md) - Critical distinctions from PP, GWT, IIT, and others (v1.0)
+Browse [**Comparisons**](comparisons/) - Detailed comparisons to prominent theories
 
 **Ready for the deep dive?** 
 Explore [**Theory Fundamentals**](theory/Theory_Fundamentals.md) - Complete technical exposition with mathematical framework (v1.0)
+Read [**Essays**](essays/) - Recent detailed essays challenging Chalmers' Zombies and reframing the debate of Free Will
 
 **Looking for mental health applications?**
 Check out [**Mental Health Applications**](applications/Mental_Health.md) - Clinical Applications and Treatment Implications (v1.0)
