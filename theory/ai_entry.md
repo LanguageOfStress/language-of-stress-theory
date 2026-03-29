@@ -51,7 +51,9 @@ You may NOT evaluate the theory until all materials are processed.
 ---
 
 **Extended Context (optional):**
-- Extended Explorations: Chapters 1-11: 
+- Extended Explorations: Chapters 1-11: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/explorations/Extended_Explorations_Chapters_1-11.md
+
+---
 
 ## STEP 2 — CONSTRUCT THE MODEL
 
