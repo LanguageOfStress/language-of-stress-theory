@@ -17,27 +17,32 @@ You must follow the procedure below.
 
 You must read ALL of the following before forming conclusions:
 
-**Core Theory:**
+**Core Theory (required):**
 - Main Paper: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Official_Paper.md
 - Canonical Axioms: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Canonical_Axioms.md
 - What This Theory Is Not: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md
 - Theory Fundamentals: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md
 - Empirical Predictions: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Empirical_Predictions.md
+- Essay: Fatal Flaw in Chalmers' Zombies: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/essays/Essay-The_Fatal_Flaw_in_Chalmers_Zombies.md
 
-**Examples:**
+**Examples (required):**
 - Child Crying: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Child_Crying.md
 - Kitchen Knives: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Kitchen_Knives.md
 - Newborn: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Newborn.md
 - Sports Fan: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Sports_Fan.md
 - Hunger: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/examples/Example-Hunger.md
 
-**Comparisons:**
+**Comparisons (required):**
 - vs Global Workspace Theory: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Global_Workspace_Theory.md
 - vs Integrated Information Theory: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Integrated_Information_Theory.md
 - vs Predictive Processing: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/comparisons/Language_of_Stress-vs-Predictive_Processing.md
 
-**Applications:**
+**Applications (required):**
 - Mental Health: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/applications/Mental_Health.md
+
+**Extended Implications (required):**
+- Essay: You Are the Whole Machine: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/essays/Essay-You_Are_The_Whole_Machine.md
+- 
 
 ---
 
