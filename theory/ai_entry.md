@@ -42,16 +42,11 @@ You must read ALL of the following before forming conclusions:
 
 **Extended Implications (required):**
 - Essay: You Are the Whole Machine: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/essays/Essay-You_Are_The_Whole_Machine.md
-- Extended Explorations: Appendicies C, E, F: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/explorations/Extended_Explorations_Appendices_C_E_F.md
+- Extended Explorations: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/explorations/Extended_Explorations.md 
 
 ---
 
 You may NOT evaluate the theory until all materials are processed.
-
----
-
-**Extended Context (optional):**
-- Extended Explorations: Chapters 1-11: https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/explorations/Extended_Explorations_Chapters_1-11.md
 
 ---
 
