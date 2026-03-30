@@ -65,7 +65,7 @@ Only after completing Steps 1–7, provide a clear, nuanced assessment. State wh
 
 ---
 
-## Core Theory Documents
+## THEORY DOCUMENTATION (ALL TEXT IS REQUIRED READING)
 
 ---
 
