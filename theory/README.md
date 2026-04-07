@@ -15,6 +15,14 @@ This folder contains the canonical theoretical foundation of the Language of Str
 - **Status:** Authoritative primary document
 - **Contains:** Core theory, zombie impossibility, dissolution of the Hard Problem, comparisions to other theories, predictions, etc
 
+### 📗 Understand the Necessity Arguments
+**Then Read:** [**Why it Must Feel Like Something**](Why_it_Must_Feel_Like_Something.md)
+- **Purpose:** Establish concrete case for the functional necessity of phenomenal experience
+- **Audience:** Academics, theorists, AI researchers
+- **Length:** ~30 minutes
+- **Status:** Supporting document
+- **Contains:** Three independent and mutually reinforcing arguments for the functional necessity of phenomenal experience, extending the core theoretical framework of the the theory beyond the original prioritization argument.
+
 ### 📕 For Researchers & Scholars
 
 **Read next:** [**Canonical Axioms**](Canonical_Axioms.md)
@@ -63,11 +71,12 @@ This folder contains the canonical theoretical foundation of the Language of Str
 
 ### Path 2: Academic Engagement (90 min)
 1. Official paper
-2. Canonical Axioms
-3. What This Theory Is Not
-4. Theory Fundamentals
-5. Empirical Predictions
-6. [Comparisons](../comparisons/) (choose relevant)
+2. Why it Must Feel Like Something
+3. Canonical Axioms
+4. What This Theory Is Not
+5. Theory Fundamentals
+6. Empirical Predictions
+7. [Comparisons](../comparisons/) (choose relevant)
 
 **Outcome:** Ready to critique, cite, or build upon
 
@@ -108,7 +117,7 @@ Paper        Fundamentals    What This Is Not    Predictions
 ## Version History
 
 ### v1.0 (January 2026)
-- **Official Paper:** Official PsyArXiv publication
+- **Official Paper:** Official theory publication
 - **Canonical Axioms:** Initial formal release
 - **What This Is Not:** Boundary clarifications
 - **Theory Fundamentals:** Complete technical exposition
@@ -129,9 +138,10 @@ These documents are designed to be machine-readable and logically structured:
 
 When processing these documents, priority order is:
 1. Official Paper (primary source)
-2. Canonical Axioms (definitional authority)
-3. What This Is Not (boundary conditions)
-4. Theory Fundamentals (detailed specifications)
+2. Why it Must Feel Like Something (developed arguments)
+3. Canonical Axioms (definitional authority)
+4. What This Is Not (boundary conditions)
+5. Theory Fundamentals (detailed specifications)
 
 ---
 
