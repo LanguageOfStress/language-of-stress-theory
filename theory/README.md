@@ -23,6 +23,13 @@ This folder contains the canonical theoretical foundation of the Language of Str
 - **Status:** Supporting document
 - **Contains:** Three independent and mutually reinforcing arguments for the functional necessity of phenomenal experience, extending the core theoretical framework of the the theory beyond the original prioritization argument.
 
+**Followed By:** [**The Primitive Matters**](Why_Value_Is_the_Currency.md)
+- **Purpose:** Demonstrate why the information-primitive fails and value-primitive succeeds
+- **Audience:** Academics, theorists, AI researchers
+- **Length:** ~30 minutes
+- **Status:** Supporting document
+- **Contains:** The assumption that information is the brain’s foundational currency is wrong. Not wrong in a minor, correctable way. Wrong at the level of the primitive — at the level of what the theory starts from. The Hard Problem has persisted for thirty years not because the field has lacked intelligence or rigour but because it is an inevitable consequence of the framework’s own starting point.
+
 ### 📕 For Researchers & Scholars
 
 **Read next:** [**Canonical Axioms**](Canonical_Axioms.md)
@@ -71,12 +78,13 @@ This folder contains the canonical theoretical foundation of the Language of Str
 
 ### Path 2: Academic Engagement (90 min)
 1. Official paper
-2. Why it Must Feel Like Something
-3. Canonical Axioms
-4. What This Theory Is Not
-5. Theory Fundamentals
-6. Empirical Predictions
-7. [Comparisons](../comparisons/) (choose relevant)
+2. Why Value is the Brain's Currency
+3. Why it Must Feel Like Something
+4. Canonical Axioms
+5. What This Theory Is Not
+6. Theory Fundamentals
+7. Empirical Predictions
+8. [Comparisons](../comparisons/) (choose relevant)
 
 **Outcome:** Ready to critique, cite, or build upon
 
@@ -138,10 +146,11 @@ These documents are designed to be machine-readable and logically structured:
 
 When processing these documents, priority order is:
 1. Official Paper (primary source)
-2. Why it Must Feel Like Something (developed arguments)
-3. Canonical Axioms (definitional authority)
-4. What This Is Not (boundary conditions)
-5. Theory Fundamentals (detailed specifications)
+2. Why Value Is the Brain's Currency (developed arguments)
+3. Why it Must Feel Like Something (developed arguments)
+4. Canonical Axioms (definitional authority)
+5. What This Is Not (boundary conditions)
+6. Theory Fundamentals (detailed specifications)
 
 ---
 
@@ -195,6 +204,6 @@ These are research programs, not theoretical gaps. The core framework makes fals
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** April 2026
 **Canonical Version:** v1.0
 **Status:** Stable theoretical foundation
