@@ -21,6 +21,9 @@
 **Want to Read the Official Theory Paper?** 
 Start with [**Language of Stress: A Value-Primitive Theory of Consciousness**](theory/Official_Paper.md) - The official publication of the theory
 
+**Want to know how current prevailing theories created the Hard Problem?**
+Check out [**Why Value Is the Brain's Currency**](theory/Why_Value_Is_the_Currency.md) - Information has long been assumed to be the brain's foundational currency. This assumption isn't not only wrong, it's the reason we have the Hard Problem in the first place. 
+
 **Want to fully understand the functional necessity of phenomenal experience?**
 Read [**Why it Must Feel Like Something**](theory/Why_it_Must_Feel_Like_Something.md) - Three independent arguments for the functional necessity of phenomenal experience
 
@@ -101,7 +104,8 @@ Explore [**Extended Explorations**](explorations/Extended_Explorations.md) - Ori
 language-of-stress-theory/
 ├── theory/              # Core theoretical framework
 │   ├── Official_Paper.md             # Formal introduction of the theory (v1.0)
-│   ├── Why_it_Must_Feel_Like_Something.md  # Development of Critical Arguments (v1.0)
+│   ├── Why_Value_Is_the_Currency.md  # Value-Primitive vs Information-Primitive (v1.0)
+│   ├── Why_it_Must_Feel_Like_Something.md  # The functional necessity of phenomenal experience (v1.0)
 │   ├── Canonical_Axioms.md           # Formal axiomatic foundation (v1.0)
 │   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories (v1.0)
 │   ├── Theory_Fundamentals.md        # Complete technical exposition (v1.0)
@@ -329,6 +333,7 @@ Direct access to raw theory documents:
 
 **Core Theory:**
 - [Main Paper (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Official_Paper.md)
+- [Why Value Is the Currency (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Why_Value_Is_the_Currency.md)
 - [Why it Must Feel Like Something (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Why_it_Must_Feel_Like_Something.md)
 - [Canonical Axioms (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Canonical_Axioms.md)
 - [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
