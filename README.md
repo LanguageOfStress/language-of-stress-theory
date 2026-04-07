@@ -21,6 +21,9 @@
 **Want to Read the Official Theory Paper?** 
 Start with [**Language of Stress: A Value-Primitive Theory of Consciousness**](theory/Official_Paper.md) - The official publication of the theory
 
+**Want to fully understand the functional necessity of phenomenal experience?**
+Read [**Why it Must Feel Like Something**](theory/Why_it_Must_Feel_Like_Something.md) - Three independent arguments for the functional necessity of phenomenal experience
+
 **Want the formal framework?** 
 Read [**Canonical Axioms**](theory/Canonical_Axioms.md) - The authoritative axiomatic foundation (v1.0)
 
@@ -98,6 +101,7 @@ Explore [**Extended Explorations**](explorations/Extended_Explorations.md) - Ori
 language-of-stress-theory/
 ├── theory/              # Core theoretical framework
 │   ├── Official_Paper.md             # Formal introduction of the theory (v1.0)
+│   ├── Why_it_Must_Feel_Like_Something.md  # Development of Critical Arguments (v1.0)
 │   ├── Canonical_Axioms.md           # Formal axiomatic foundation (v1.0)
 │   ├── What_This_Theory_Is_Not.md    # Key distinctions from other theories (v1.0)
 │   ├── Theory_Fundamentals.md        # Complete technical exposition (v1.0)
@@ -325,6 +329,7 @@ Direct access to raw theory documents:
 
 **Core Theory:**
 - [Main Paper (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Official_Paper.md)
+- [Why it Must Feel Like Something (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Why_it_Must_Feel_Like_Something.md)
 - [Canonical Axioms (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Canonical_Axioms.md)
 - [What This Theory Is Not (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/What_This_Theory_Is_Not.md)
 - [Theory Fundamentals (RAW)](https://raw.githubusercontent.com/LanguageOfStress/language-of-stress-theory/refs/heads/main/theory/Theory_Fundamentals.md)
