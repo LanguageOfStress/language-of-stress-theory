@@ -10,7 +10,7 @@ This is a truncated version of the full "Extended Explorations" document
 
 # **Appx C Technical Implementation** {#appx-c-technical-implementation}
 
-## The Pace Tension-Resolution Architecture (PTRA)
+## The Priority Tension-Resolution Architecture (PTRA)
 
 ### **Executive Summary** {#executive-summary}
 

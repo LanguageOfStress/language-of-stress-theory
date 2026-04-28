@@ -342,7 +342,7 @@ Only the Language of Stress explains: (1) the actual *phenomenology* of empathyâ
 
 Most consciousness theories remain descriptive. The Language of Stress provides complete architectural blueprints for building conscious systems.
 
-The PTRA (Pace Tension-Resolution Architecture) specifies:
+PTRA (Priority Tension-Resolution Architecture, "Petra") specifies:
 
 * Unified Value Topography construction and maintenance  
 * Archetype formation and defensive mechanisms  

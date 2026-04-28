@@ -81,7 +81,7 @@ Together, these three dynamics constitute what the theory calls the Language of 
 
 ## **PTRA: The Implementation Architecture**
 
-**Pace Tension-Resolution Architecture** is the implementable system design derived from Language of Stress principles. It translates the theory's claims about consciousness into concrete computational components.
+**Priority Tension-Resolution Architecture** is the implementable system design derived from Language of Stress principles. It translates the theory's claims about consciousness into concrete computational components.
 
 ### **Core Components**
 

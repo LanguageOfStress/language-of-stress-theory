@@ -1601,7 +1601,7 @@ The following sections describe specific computer-implemented methods for realiz
 
 # **Appx C Technical Implementation** {#appx-c-technical-implementation}
 
-## The Pace Tension-Resolution Architecture (PTRA)
+## The Priority Tension-Resolution Architecture (PTRA)
 
 ### **Executive Summary** {#executive-summary}
 
